@@ -24,7 +24,7 @@ $> ls .github/workflows/
 action.yml
 ```
 
-Using the [github actions](https://docs.github.com/en/actions) and [workflows](https://docs.github.com/en/actions/learn- github-actions/workflow-syntax-for-github-actions) create an action that:
+Using the [github actions](https://docs.github.com/en/actions) and [workflows](https://docs.github.com/en/actions/learn-github-actions/workflow-syntax-for-github-actions) create an action that:
 
 - Is called `My first action`.
 - Launches when pushing to the `master` branch.
